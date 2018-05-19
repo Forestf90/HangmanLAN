@@ -1,0 +1,9 @@
+C:\Users\Forestf\Desktop\Kalambury — kopia\SzubienicaKlient\bin\Debug\SzubienicaKlient.exe.config
+C:\Users\Forestf\Desktop\Kalambury — kopia\SzubienicaKlient\bin\Debug\SzubienicaKlient.exe
+C:\Users\Forestf\Desktop\Kalambury — kopia\SzubienicaKlient\bin\Debug\SzubienicaKlient.pdb
+C:\Users\Forestf\Desktop\Kalambury — kopia\SzubienicaKlient\obj\Debug\SzubienicaKlient.Form1.resources
+C:\Users\Forestf\Desktop\Kalambury — kopia\SzubienicaKlient\obj\Debug\SzubienicaKlient.Properties.Resources.resources
+C:\Users\Forestf\Desktop\Kalambury — kopia\SzubienicaKlient\obj\Debug\SzubienicaKlient.csproj.GenerateResource.Cache
+C:\Users\Forestf\Desktop\Kalambury — kopia\SzubienicaKlient\obj\Debug\SzubienicaKlient.csproj.CoreCompileInputs.cache
+C:\Users\Forestf\Desktop\Kalambury — kopia\SzubienicaKlient\obj\Debug\SzubienicaKlient.exe
+C:\Users\Forestf\Desktop\Kalambury — kopia\SzubienicaKlient\obj\Debug\SzubienicaKlient.pdb

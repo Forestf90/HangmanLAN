@@ -1,0 +1,19 @@
+C:\Users\Forestf\Desktop\Kalambury — kopia\Szubienica\bin\Debug\Szubienica.exe.config
+C:\Users\Forestf\Desktop\Kalambury — kopia\Szubienica\bin\Debug\Szubienica.exe
+C:\Users\Forestf\Desktop\Kalambury — kopia\Szubienica\bin\Debug\Szubienica.pdb
+C:\Users\Forestf\Desktop\Kalambury — kopia\Szubienica\obj\Debug\Szubienica.Form1.resources
+C:\Users\Forestf\Desktop\Kalambury — kopia\Szubienica\obj\Debug\Szubienica.Properties.Resources.resources
+C:\Users\Forestf\Desktop\Kalambury — kopia\Szubienica\obj\Debug\Szubienica.csproj.GenerateResource.Cache
+C:\Users\Forestf\Desktop\Kalambury — kopia\Szubienica\obj\Debug\Szubienica.csproj.CoreCompileInputs.cache
+C:\Users\Forestf\Desktop\Kalambury — kopia\Szubienica\obj\Debug\Szubienica.exe
+C:\Users\Forestf\Desktop\Kalambury — kopia\Szubienica\obj\Debug\Szubienica.pdb
+C:\Users\Forestf\Desktop\Sieci_Szubienica\Szubienica\bin\Debug\Szubienica.exe.config
+C:\Users\Forestf\Desktop\Sieci_Szubienica\Szubienica\bin\Debug\Szubienica.exe
+C:\Users\Forestf\Desktop\Sieci_Szubienica\Szubienica\bin\Debug\Szubienica.pdb
+C:\Users\Forestf\Desktop\Sieci_Szubienica\Szubienica\obj\Debug\Szubienica.csprojResolveAssemblyReference.cache
+C:\Users\Forestf\Desktop\Sieci_Szubienica\Szubienica\obj\Debug\Szubienica.Form1.resources
+C:\Users\Forestf\Desktop\Sieci_Szubienica\Szubienica\obj\Debug\Szubienica.Properties.Resources.resources
+C:\Users\Forestf\Desktop\Sieci_Szubienica\Szubienica\obj\Debug\Szubienica.csproj.GenerateResource.Cache
+C:\Users\Forestf\Desktop\Sieci_Szubienica\Szubienica\obj\Debug\Szubienica.csproj.CoreCompileInputs.cache
+C:\Users\Forestf\Desktop\Sieci_Szubienica\Szubienica\obj\Debug\Szubienica.exe
+C:\Users\Forestf\Desktop\Sieci_Szubienica\Szubienica\obj\Debug\Szubienica.pdb
