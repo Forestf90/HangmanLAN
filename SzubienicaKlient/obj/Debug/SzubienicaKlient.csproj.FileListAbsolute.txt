@@ -7,3 +7,13 @@ C:\Users\Forestf\Desktop\Kalambury — kopia\SzubienicaKlient\obj\Debug\Szubieni
 C:\Users\Forestf\Desktop\Kalambury — kopia\SzubienicaKlient\obj\Debug\SzubienicaKlient.csproj.CoreCompileInputs.cache
 C:\Users\Forestf\Desktop\Kalambury — kopia\SzubienicaKlient\obj\Debug\SzubienicaKlient.exe
 C:\Users\Forestf\Desktop\Kalambury — kopia\SzubienicaKlient\obj\Debug\SzubienicaKlient.pdb
+C:\Users\Forestf\Desktop\Sieci_Szubienica\SzubienicaKlient\obj\Debug\SzubienicaKlient.csprojResolveAssemblyReference.cache
+C:\Users\Forestf\Desktop\Sieci_Szubienica\SzubienicaKlient\obj\Debug\SzubienicaKlient.Form1.resources
+C:\Users\Forestf\Desktop\Sieci_Szubienica\SzubienicaKlient\obj\Debug\SzubienicaKlient.Properties.Resources.resources
+C:\Users\Forestf\Desktop\Sieci_Szubienica\SzubienicaKlient\obj\Debug\SzubienicaKlient.csproj.GenerateResource.Cache
+C:\Users\Forestf\Desktop\Sieci_Szubienica\SzubienicaKlient\obj\Debug\SzubienicaKlient.csproj.CoreCompileInputs.cache
+C:\Users\Forestf\Desktop\Sieci_Szubienica\SzubienicaKlient\obj\Debug\SzubienicaKlient.exe
+C:\Users\Forestf\Desktop\Sieci_Szubienica\SzubienicaKlient\obj\Debug\SzubienicaKlient.pdb
+C:\Users\Forestf\Desktop\Sieci_Szubienica\SzubienicaKlient\bin\Debug\SzubienicaKlient.exe.config
+C:\Users\Forestf\Desktop\Sieci_Szubienica\SzubienicaKlient\bin\Debug\SzubienicaKlient.exe
+C:\Users\Forestf\Desktop\Sieci_Szubienica\SzubienicaKlient\bin\Debug\SzubienicaKlient.pdb
